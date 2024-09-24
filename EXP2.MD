@@ -79,9 +79,9 @@ else:
 
 ### Output:
 
+![alt text](<Screenshot 2024-09-24 204138.png>)
 
-
-
+![alt text](<Screenshot 2024-09-24 204204.png>)
 
 
 ### Result:
